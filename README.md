@@ -5,6 +5,8 @@ can even search for a book.
 ### Teach stack
 - React
 - Tailwind
+- MaterialUI
+- React icons
 <br>
 
 ![alt text](https://raw.githubusercontent.com/Ne0sky/TheBookWorm/main/images/Capture.JPG)
